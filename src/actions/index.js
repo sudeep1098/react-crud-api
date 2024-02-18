@@ -1,5 +1,3 @@
-import React from "react";
-
 export const increase = () => {
   return {
     type: "increment",
